@@ -4,3 +4,31 @@ a {
 ul {
 	list-style: none;
 }
+.rednav {
+	color: red;
+}
+.logo {
+	width: 100px;
+}
+li {
+    display: inline-block;
+    width: 100px;
+}
+.p-satauri{
+	font-size: 20px;
+}
+nav {
+	display: inline-block;
+}
+.ricxvi {
+	color: white;
+	background-color: blue;
+	font-size: 48px;
+}
+.tve {
+	    margin-top: 5px;
+}
+.box {
+	display: inline-block;
+	width: 400px;
+}
